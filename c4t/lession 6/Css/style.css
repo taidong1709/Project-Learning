@@ -46,6 +46,7 @@ a.hotnew1:hover{
     width: 475px;
     height: 300px;
     padding-top: -7px;
+    
 }
 .title1{
     font-size: 30px;
@@ -54,25 +55,42 @@ a.hotnew1:hover{
     font-size: 20px;
 } 
 .tin-chinh{
-   border: 1px solid antiquewhite;
    margin-right: 19.2cm;
    margin-left: 8cm;
    margin-top: 20px;
 }
 .tinnho{
-    border: 1px solid antiquewhite;
+    border: 1px solid white;
     width: 155px;
     padding-bottom: 30px;
     display: inline-block;
-    margin-left: 8cm;
     margin-right: -8cm;
     margin-top: 1cm;
+    margin-left: 8cm;
     
 }
 .chunho{
     font-size: 14px;
     color: black;
 }
-.tt{
-    display: inline-block;
+.Thumucben{
+    border: 1px solid antiquewhite;
+    width: 300px;
+}
+.tt1{
+    border: solid 1px red;
+    width: 500px;
+}
+body{
+    margin: auto;
+}
+.TC{
+    border: 1px solid white;
+    text-align: justify;
+}
+.Menu11{
+    text-align: justify;
+}
+.menu11{
+    color: black;
 }
